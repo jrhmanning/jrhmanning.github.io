@@ -83,7 +83,7 @@ author:
   name             : "Joe Manning"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Glasgow, UK"
+#  location         : "Glasgow, UK"
   employer         : "University of Manchester, UK"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gdr5qNMAAAAJ&hl=en"
