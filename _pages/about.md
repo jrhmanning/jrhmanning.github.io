@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<h1>Hi there</ h1>
-<h3>I'm a researcher studying the process chemistry of porous nanomaterials</ h3>
+
+<h3>Hi there<br /> <br />
+
+I'm a researcher studying the process chemistry of porous nanomaterials</h3>
 
 <p>
 I study the ways in which porous materials are synthesized to ease the transition towards manufacture and widespread realisation of their benefits. 
