@@ -12,4 +12,4 @@ Despite significant improvements in the synthesis of templated silica materials,
 
 [Access here](https://doi.org/10.1002/cssc.201700027)
 
-# Recommended citation: J. R. H. Manning, T.W.S Yip, A. Centi, M. Jorge, and S.V. Patwardhan, “An eco-friendly, tunable and scalable method for producing porous functional nanomaterials designed using molecular interactions,” _ChemSusChem_, 2017 (**10**), 1683
+### Recommended citation: J. R. H. Manning, T.W.S Yip, A. Centi, M. Jorge, and S.V. Patwardhan, “An eco-friendly, tunable and scalable method for producing porous functional nanomaterials designed using molecular interactions,” _ChemSusChem_, 2017 (**10**), 1683
