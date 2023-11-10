@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-jmatchema
 excerpt: 'Development of methods to simulate the energetics of MOF activation, and an investigation into the fluid behaviour during of successful and unsuccesful activation.'
 date: 2023-06-19
-venue: 'J Mat Chem A'
+venue: 'J. Mater. Chem. A'
 paperurl: 'https://doi.org/10.1039/D3TA04647H'
 citation: 'J. R. H. Manning, G. Donval, M. Tolladay, T. L. Underwood, S. Parker, and T. Düren, “Simulating solvent activation processes in metal-organic frameworks using transition matrix GCMC,” 2023, ChemRxiv'
 ---
@@ -12,4 +12,4 @@ Metal organic framework (MOF) materials are a vast family of nanoporous solids w
 
 [Access here](https://doi.org/10.1039/D3TA04647H)
 
-# Recommended citation: J. R. H. Manning, G. Donval, M. Tolladay, T. L. Underwood, S. Parker, and T. Düren, “Simulating solvent activation processes in metal-organic frameworks using transition matrix GCMC,” 2023, _ChemRxiv_
+### Recommended citation: J. R. H. Manning, G. Donval, M. Tolladay, T. L. Underwood, S. Parker, and T. Düren, “Simulating solvent activation processes in metal-organic frameworks using transition matrix GCMC,” 2023, _J. Mater. Chem. A_
