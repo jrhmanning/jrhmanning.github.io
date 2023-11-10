@@ -12,4 +12,4 @@ Unravelling the molecular-level mechanisms that lead to the formation of mesosca
 
 [Access here](https://strathprints.strath.ac.uk/66851/)
 
-# Recommended citation: A. Centi, J. R. H. Manning, S. van Meurs, S. V. Patwardhan, and M. Jorge, “The role of charge-matching in nanoporous silica formation,” _Mater. Horiz._, 2019 (**6**), 1027
+### Recommended citation: A. Centi, J. R. H. Manning, S. van Meurs, S. V. Patwardhan, and M. Jorge, “The role of charge-matching in nanoporous silica formation,” _Mater. Horiz._, 2019 (**6**), 1027
